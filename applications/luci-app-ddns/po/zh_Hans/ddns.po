@@ -143,11 +143,11 @@ msgstr "DDNS 服务提供商"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:284
 msgid "DDns"
-msgstr "动态DNS"
+msgstr "DDNS"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:585
 msgid "DDns Service"
-msgstr "动态DNS 服务项"
+msgstr "DDNS 服务项"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:369
 msgid "DNS requests via TCP not supported"
@@ -205,11 +205,11 @@ msgstr "域名"
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/status/include/70_ddns.js:7
 #: applications/luci-app-ddns/root/usr/share/luci/menu.d/luci-app-ddns.json:3
 msgid "Dynamic DNS"
-msgstr "动态 DNS(DDNS)"
+msgstr "DDNS"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:267
 msgid "Dynamic DNS Version"
-msgstr "动态 DNS 版本"
+msgstr "DDNS 版本"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:553
 msgid "Edit"
@@ -901,7 +901,7 @@ msgstr "使用 HTTPS 但不检查服务器证书（不安全）"
 #~ msgid ""
 #~ "Configure here the details for all Dynamic DNS services including this "
 #~ "LuCI application."
-#~ msgstr "在这里修改动态 DNS 服务的详细配置。"
+#~ msgstr "在这里修改 DDNS 服务的详细配置。"
 
 #~ msgid "Example for IPv4: http://checkip.dyndns.com"
 #~ msgstr "IPv4示例: http://checkip.dyndns.com"
@@ -978,7 +978,7 @@ msgstr "使用 HTTPS 但不检查服务器证书（不安全）"
 #~ msgid ""
 #~ "Below a list of configuration tips for your system to run Dynamic DNS "
 #~ "updates without limitations"
-#~ msgstr "以下是一个能够让您的系统不受限制地进行动态 DNS 更新设置的提示列表"
+#~ msgstr "以下是一个能够让您的系统不受限制地更新 DDNS 设置的提示列表"
 
 #~ msgid ""
 #~ "Below is a list of configured DDNS configurations and their current state."
@@ -1057,7 +1057,7 @@ msgstr "使用 HTTPS 但不检查服务器证书（不安全）"
 #~ msgid ""
 #~ "Dynamic DNS allows that your router can be reached with a fixed hostname "
 #~ "while having a dynamically changing IP address."
-#~ msgstr "动态 DNS 允许为拥有动态 IP 的主机配置一个固定的可访问域名。"
+#~ msgstr "DDNS 允许为拥有动态 IP 的主机配置一个固定的可访问域名。"
 
 #~ msgid "File not found"
 #~ msgstr "文件未找到"

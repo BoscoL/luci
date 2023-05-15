@@ -21,7 +21,7 @@ local enable_priority = uci:get("nft-qos", "default", "priority_enable")
 
 local has_ipv6 = fs.access("/proc/net/ipv6_route")
 
-m = Map("nft-qos", translate("QoS over Nftables"))
+m = Map("nft-qos", translate("Quality of Service"))
 
 --
 -- Taboptions

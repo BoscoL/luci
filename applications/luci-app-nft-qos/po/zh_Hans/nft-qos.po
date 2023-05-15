@@ -188,8 +188,11 @@ msgid "Protocol"
 msgstr "协议"
 
 #: applications/luci-app-nft-qos/luasrc/controller/nft-qos.lua:21
-#: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:24
 msgid "QoS over Nftables"
+msgstr "QoS"
+
+#: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:24
+msgid "Quality of Service"
 msgstr "服务质量（QoS）"
 
 #: applications/luci-app-nft-qos/luasrc/controller/nft-qos.lua:13

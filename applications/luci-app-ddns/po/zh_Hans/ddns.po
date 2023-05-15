@@ -201,9 +201,12 @@ msgstr "已禁用"
 msgid "Domain"
 msgstr "域名"
 
+#: applications/luci-app-ddns/root/usr/share/luci/menu.d/luci-app-ddns.json:3
+msgid "Dynamic Domain Name Server"
+msgstr "DDNS"
+
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:260
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/status/include/70_ddns.js:7
-#: applications/luci-app-ddns/root/usr/share/luci/menu.d/luci-app-ddns.json:3
 msgid "Dynamic DNS"
 msgstr "动态域名服务（DDNS）"
 
